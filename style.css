@@ -6,7 +6,7 @@ body {
   text-align: center;
   margin-top: 150px;
   margin-bottom: 20px;
-  font-family: 'Arial', sans-serif;
+  font-family: 'Crafty Girls', cursive;
   font-size: 20px;
   color: #000000;
   background-color: #e89eb8;
@@ -163,6 +163,13 @@ body {
   transform-origin: 50% 90%;
   animation: flicker 1s ease-in-out alternate infinite;
 }
+
+.crafty-girls-regular {
+  font-family: "Crafty Girls", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
 
 @keyframes flicker {
   0% {
